@@ -1,2 +1,2 @@
-# Gauri
- An jewellery shop
+# Adimela
+ A grocery shop
