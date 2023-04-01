@@ -1,0 +1,31 @@
+ body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+    background-color: #51abcb;
+    color: #142850;
+} 
+
+.blog_banner img{
+    width: 100%;
+    height: 27vw;
+	background-color: red;
+}
+
+#artc h1,h5{
+    color: Black;
+}
+
+#artc h3,h4{
+    color: #51abcb;
+}
+
+#artc h2{
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.research_step img{
+    width: 350px;
+    height: 350px;
+    float: right;
+}
